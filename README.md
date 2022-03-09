@@ -1,5 +1,2 @@
 # Hello-World
-
-
-
-This is the readme file.
+i have made some changes over readme.
